@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog xmlns="http://www.demandware.com/xml/impex/catalog/2006-10-31" catalog-id="grocery-master">
+
+<product product-id="G00000021">
+    <price value="100"></price>
+</product>
+
+<product product-id="G00000022">
+    <price value="100"></price>
+</product>
+
+<product product-id="G00000023">
+    <price value="100"></price>
+</product>
+
+</catalog>
